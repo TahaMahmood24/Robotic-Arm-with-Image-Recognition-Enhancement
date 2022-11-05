@@ -1,0 +1,72 @@
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-4'
+Constraint Name: Bloquear2
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-4'
+Constraint Name: Bloquear2
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-4'
+Constraint Name: Bloquear2
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-5'
+Constraint Name: Bloquear3
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-5'
+Constraint Name: Bloquear3
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-5'
+Constraint Name: Bloquear3
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-6'
+Constraint Name: Bloquear4
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-6'
+Constraint Name: Bloquear4
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-6'
+Constraint Name: Bloquear4
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-7'
+Constraint Name: Bloquear5
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-7'
+Constraint Name: Bloquear5
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-7'
+Constraint Name: Bloquear5
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-8'
+Constraint Name: Bloquear6
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-8'
+Constraint Name: Bloquear6
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-8'
+Constraint Name: Bloquear6
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-9'
+Constraint Name: Bloquear7
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-9'
+Constraint Name: Bloquear7
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pieza 1-1', 'Pieza 7-9'
+Constraint Name: Bloquear7
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
